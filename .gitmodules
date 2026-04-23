@@ -1,3 +1,6 @@
 [submodule "LAB7/main-app/libs/project-core"]
 	path = LAB7/main-app/libs/project-core
 	url = https://github.com/Aiji20/project-core.git
+[submodule "LAB7/libs/project-core"]
+	path = LAB7/libs/project-core
+	url = https://github.com/Aiji20/project-core.git
